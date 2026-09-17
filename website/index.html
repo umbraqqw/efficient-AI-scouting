@@ -14,36 +14,59 @@
 
 <!-- Divide the page into two columns, display player card on the right and player list on the left -->
 
+<div class="wrapper">
+  <div id="sidebar">
+    <input type="text">
+    <ul>
+      <li>
+        <input type="radio" name="player-select" id="p1" class="player-radio" checked>
+        <label for="p1" class="player-item">Erling Haaland</label>
+      </li>
+      <li>
+        <input type="radio" name="player-select" id="p2" class="player-radio">
+        <label for="p2" class="player-item">Martin Ødegaard</label>
+      </li>
 
+    </ul>
 
-
-<div class="card">
-    <div class="photo-area">
-      <div class="photo-placeholder">
-        <img src="https://t3.ftcdn.net/jpg/00/88/78/20/360_F_88782064_x9Ow2lKie1fr4ncBYLE88x6InooDKAq7.jpg" alt="Player photo">
-      </div>
-    </div>
- 
-    <div class="name-plate">
-      <h1 class="player-name" id="player-name">Player Name</h1>
-      <p class="player-role">Position: Left Wing &middot; Club: IK Start</p>
-    </div>
- 
-    <div class="stats">
-      <div class="stat">
-        <div class="stat-value"><span id="avg-speed">--</span><span class="stat-unit">km/h</span></div>
-        <div class="stat-label">Avg. Top Speed</div>
-      </div>
-      <div class="stat">
-        <div class="stat-value"><span id="avg-cross">--</span><span class="stat-unit">%</span></div>
-        <div class="stat-label">Avg. Cross Success</div>
-      </div>
-      <div class="stat">
-        <div class="stat-value"><span id="avg-shot">--</span><span class="stat-unit">%</span></div>
-        <div class="stat-label">Avg. Shot Accuracy</div>
-      </div>
-    </div>
   </div>
+
+
+
+  <div id="playerView">
+    <div class="card">
+        <div class="photo-area">
+          <div class="photo-placeholder">
+            <img src="https://t3.ftcdn.net/jpg/00/88/78/20/360_F_88782064_x9Ow2lKie1fr4ncBYLE88x6InooDKAq7.jpg" alt="Player photo">
+          </div>
+        </div>
+    
+        <div class="name-plate">
+          <h1 class="player-name" id="player-name">Player Name</h1>
+          <p class="player-role">Position: Left Wing &middot; Club: IK Start</p>
+        </div>
+    
+        <div class="stats">
+          <div class="stat">
+            <div class="stat-value"><span id="avg-speed">--</span><span class="stat-unit">km/h</span></div>
+            <div class="stat-label">Avg. Top Speed</div>
+          </div>
+          <div class="stat">
+            <div class="stat-value"><span id="avg-cross">--</span><span class="stat-unit">%</span></div>
+            <div class="stat-label">Avg. Cross Success</div>
+          </div>
+          <div class="stat">
+            <div class="stat-value"><span id="avg-shot">--</span><span class="stat-unit">%</span></div>
+            <div class="stat-label">Avg. Shot Accuracy</div>
+          </div>
+        </div>
+      </div>
+  </div>
+
+</div>
+
+
+
 
 
 
