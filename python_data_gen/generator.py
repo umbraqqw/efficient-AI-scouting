@@ -2,7 +2,14 @@ import json
 import random
 
 all_players= []
-name_list = ["Jensen", "Mikkelsen", "Odegaard", "Gabrielsen"]
+name_list = [
+    "Garcia", "Rodriguez", "Gonzalez", "Kim", "Lopez",
+    "Martinez", "Perez", "Sanchez", "Muller", "Fernandez",
+    "Schneider", "Silva", "Jones", "Yilmaz", "Hernandez",
+    "Diaz", "Smith", "Williams", "Camara", "Hansen",
+    "Ramirez", "Torres", "Schmidt", "Pereira", "Santos",
+    "Traore", "Brown", "Diallo", "Alvarez", "Romero"
+]
 
 match_history =[]
 

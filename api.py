@@ -47,4 +47,30 @@ def get_player_averages(player_name: str):
         return {"error": "Player not found"}
 
 
+# The {query} in the path will be whatever text the user typed in the search box
+@app.get("/search/{query}")
+def search_players(query: str):
     
+    connection = sqlite3.connect("scouting.db")
+    cursor = connection.cursor()
+    
+    # SQL 'LIKE' finds partial matches. 
+    # Adding '%' before and after means: "find 'query' anywhere inside the string"
+    search_term = f"%{query}%"
+    
+    # We SELECT distinct names, and LIMIT 10 so we never overload the site
+    cursor.execute("""
+        SELECT DISTINCT player_name 
+        FROM matches 
+        WHERE player_name LIKE ?
+        LIMIT 10
+    """, (search_term,))
+    
+    # fetchall() grabs every row that matched the query
+    results = cursor.fetchall()
+    connection.close()
+    
+    # Convert from list of tuples [('Jensen',), ('Mikkelsen',)] 
+    # into a clean list of strings ['Jensen', 'Mikkelsen']
+    player_list = [row[0] for row in results] if results else []    
+    return {"results": player_list}
