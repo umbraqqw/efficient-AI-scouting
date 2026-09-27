@@ -10,73 +10,68 @@
 </head>
 <body>
     
-<!-- Floating top bar -->
-
-<!-- Divide the page into two columns, display player card on the right and player list on the left -->
-
 <div class="wrapper">
-  <div id="sidebar">
-    <input type="text" id="player-search">
-    <ul>
-     <!--
-      <li>
-        <input type="radio" name="player-select" id="p1" class="player-radio" checked>
-        <label for="p1" class="player-item">Erling Haaland</label>
-      </li>
-      <li>
-        <input type="radio" name="player-select" id="p2" class="player-radio">
-        <label for="p2" class="player-item">Martin Ødegaard</label>
-      </li>
-     
-     --> 
 
-    </ul>
-
-  </div>
+    <aside id="sidebar">
+      <input type="text" id="search-input" placeholder="Type player name..." autocomplete="off">
+      <ul id="search-results"></ul>
+    </aside>
 
 
-
-  <div id="playerView">
-    <div class="card">
+    <main id="playerView">
+      <div class="card">
         <div class="photo-area">
           <div class="photo-placeholder">
-            <img src="https://t3.ftcdn.net/jpg/00/88/78/20/360_F_88782064_x9Ow2lKie1fr4ncBYLE88x6InooDKAq7.jpg" alt="Player photo">
+            <img src="https://t4.ftcdn.net/jpg/10/25/12/49/360_F_1025124948_TGByQ82adJiGswT3EAq3wjgoSKKFiVWx.jpg" id="card-photo" alt="Player Photo">
           </div>
         </div>
-    
         <div class="name-plate">
-          <h1 class="player-name" id="player-name">Player Name</h1>
-          <p class="player-role">Position: Left Wing &middot; Club: IK Start</p>
+          <h2 class="player-name" id="card-name">Select Player</h2>
+          <p class="player-role" id="card-role">Position · Club</p>
         </div>
-    
-        <div class="stats">
-          <div class="stat">
-            <div class="stat-value"><span id="avg-speed">--</span><span class="stat-unit">km/h</span></div>
-            <div class="stat-label">Avg. Top Speed</div>
-          </div>
-          <div class="stat">
-            <div class="stat-value"><span id="avg-cross">--</span><span class="stat-unit">%</span></div>
-            <div class="stat-label">Avg. Cross Success</div>
-          </div>
-          <div class="stat">
-            <div class="stat-value"><span id="avg-shot">--</span><span class="stat-unit">%</span></div>
-            <div class="stat-label">Avg. Shot Accuracy</div>
-          </div>
+        <div class="card-action">
+          <button id="view-profile-btn" class="btn-profile" disabled>View Full Profile</button>
         </div>
       </div>
+    </main>
   </div>
 
-</div>
+  <div id="profile-modal" class="modal hidden">
+    <div class="modal-content">
+      <button id="close-modal-btn" class="close-btn">&times;</button>
+      
+      <header class="modal-header">
+        <h1 id="modal-player-name" class="modal-player-title">Player Name</h1>
+        <div id="modal-player-sub" class="modal-player-sub">Position · Club</div>
+      </header>
 
+      <div class="modal-grid">
 
+        <section class="phase-box">
+          <h3>In Possession (Per 90)</h3>
+          <div class="stat-row"><span>Progressive Passes:</span> <strong id="m-prog-passes"></strong></div>
+          <div class="stat-row"><span>Pass Accuracy:</span> <strong id="m-pass-acc">-</strong></div>
+          <div class="stat-row"><span>Key Passes:</span> <strong id="m-key-passes">-</strong></div>
+          <div class="stat-row"><span>Expected Assists (xA):</span> <strong id="m-xa">-</strong></div>
+        </section>
 
+        <section class="phase-box">
+          <h3>Out of Possession (Per 90)</h3>
+          <div class="stat-row"><span>Tackles Won:</span> <strong id="m-tackles">-</strong></div>
+          <div class="stat-row"><span>Interceptions:</span> <strong id="m-interceptions">-</strong></div>
+          <div class="stat-row"><span>Defensive Duels Win %:</span> <strong id="m-def-duels">-</strong></div>
+          <div class="stat-row"><span>Aerial Duels Win %:</span> <strong id="m-aerial-duels">-</strong></div>
+        </section>
 
-
-
-
-
-
-
+        <section class="phase-box">
+          <h3>In Transition (Per 90)</h3>
+          <div class="stat-row"><span>Ball Recoveries:</span> <strong id="m-recoveries">-</strong></div>
+          <div class="stat-row"><span>Top Sprint Speed:</span> <strong id="m-top-speed">-</strong></div>
+          <div class="stat-row"><span>High Regains:</span> <strong id="m-high-regains">-</strong></div>
+        </section>
+      </div>
+    </div>
+  </div>
     <script src="script.js"></script>
 </body>
 </html>
