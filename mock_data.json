@@ -2,661 +2,661 @@
     {
         "name": "Garcia",
         "position": "LW",
-        "club": "Viking",
+        "club": "Fredrikstad",
         "in_possession": {
-            "progressive_passes": 6.6,
-            "pass_accuracy": 78.3,
-            "key_passes": 2.1,
+            "progressive_passes": 4.8,
+            "pass_accuracy": 73.4,
+            "key_passes": 1.0,
             "expected_assists": 0.16
         },
         "out_of_possession": {
-            "tackles_won": 3.4,
-            "interceptions": 2.7,
-            "defensive_duels_win_pct": 61.7,
-            "aerial_duels_win_pct": 37.9
+            "tackles_won": 3.2,
+            "interceptions": 2.6,
+            "defensive_duels_win_pct": 50.4,
+            "aerial_duels_win_pct": 45.3
         },
-        "in-transition": {
-            "ball_recoveries": 7.3,
-            "top_speed": 29.0,
-            "high_regains": 0.4
+        "in_transition": {
+            "ball_recoveries": 8.3,
+            "top_speed": 31.9,
+            "high_regains": 0.6
         }
     },
     {
         "name": "Rodriguez",
-        "position": "ST",
-        "club": "Molde",
+        "position": "RW",
+        "club": "Fredrikstad",
         "in_possession": {
-            "progressive_passes": 7.2,
-            "pass_accuracy": 84.2,
-            "key_passes": 1.4,
-            "expected_assists": 0.21
+            "progressive_passes": 5.1,
+            "pass_accuracy": 89.8,
+            "key_passes": 2.1,
+            "expected_assists": 0.05
         },
         "out_of_possession": {
-            "tackles_won": 2.0,
-            "interceptions": 1.8,
-            "defensive_duels_win_pct": 48.3,
-            "aerial_duels_win_pct": 53.5
+            "tackles_won": 3.8,
+            "interceptions": 1.1,
+            "defensive_duels_win_pct": 56.0,
+            "aerial_duels_win_pct": 40.7
         },
-        "in-transition": {
-            "ball_recoveries": 8.2,
-            "top_speed": 30.8,
-            "high_regains": 0.7
+        "in_transition": {
+            "ball_recoveries": 5.5,
+            "top_speed": 30.6,
+            "high_regains": 0.4
         }
     },
     {
         "name": "Gonzalez",
-        "position": "RBCM",
-        "club": "Kristiansund",
+        "position": "LB",
+        "club": "Fredrikstad",
         "in_possession": {
-            "progressive_passes": 3.5,
-            "pass_accuracy": 84.1,
-            "key_passes": 2.1,
-            "expected_assists": 0.38
+            "progressive_passes": 3.0,
+            "pass_accuracy": 74.8,
+            "key_passes": 1.2,
+            "expected_assists": 0.24
         },
         "out_of_possession": {
-            "tackles_won": 3.0,
-            "interceptions": 1.4,
-            "defensive_duels_win_pct": 70.3,
-            "aerial_duels_win_pct": 59.1
+            "tackles_won": 1.6,
+            "interceptions": 0.6,
+            "defensive_duels_win_pct": 66.1,
+            "aerial_duels_win_pct": 37.6
         },
-        "in-transition": {
-            "ball_recoveries": 8.5,
-            "top_speed": 31.2,
+        "in_transition": {
+            "ball_recoveries": 3.3,
+            "top_speed": 30.1,
             "high_regains": 0.9
         }
     },
     {
         "name": "Kim",
-        "position": "LW",
-        "club": "Lillestrøm",
+        "position": "ST",
+        "club": "Molde",
         "in_possession": {
-            "progressive_passes": 3.2,
-            "pass_accuracy": 80.7,
-            "key_passes": 1.8,
-            "expected_assists": 0.29
+            "progressive_passes": 4.7,
+            "pass_accuracy": 80.9,
+            "key_passes": 1.0,
+            "expected_assists": 0.2
         },
         "out_of_possession": {
-            "tackles_won": 2.0,
-            "interceptions": 2.1,
-            "defensive_duels_win_pct": 76.1,
-            "aerial_duels_win_pct": 42.9
+            "tackles_won": 2.2,
+            "interceptions": 1.3,
+            "defensive_duels_win_pct": 49.2,
+            "aerial_duels_win_pct": 36.9
         },
-        "in-transition": {
-            "ball_recoveries": 9.0,
-            "top_speed": 30.1,
-            "high_regains": 2.1
+        "in_transition": {
+            "ball_recoveries": 8.1,
+            "top_speed": 33.5,
+            "high_regains": 0.5
         }
     },
     {
         "name": "Lopez",
-        "position": "CB",
-        "club": "Tromsø",
+        "position": "LB",
+        "club": "IK Start",
         "in_possession": {
-            "progressive_passes": 3.4,
-            "pass_accuracy": 75.4,
-            "key_passes": 2.1,
-            "expected_assists": 0.32
+            "progressive_passes": 5.3,
+            "pass_accuracy": 72.9,
+            "key_passes": 0.8,
+            "expected_assists": 0.22
         },
         "out_of_possession": {
-            "tackles_won": 1.2,
-            "interceptions": 1.4,
-            "defensive_duels_win_pct": 75.9,
-            "aerial_duels_win_pct": 53.0
+            "tackles_won": 2.9,
+            "interceptions": 0.7,
+            "defensive_duels_win_pct": 50.9,
+            "aerial_duels_win_pct": 42.2
         },
-        "in-transition": {
-            "ball_recoveries": 3.6,
-            "top_speed": 31.7,
-            "high_regains": 2.1
+        "in_transition": {
+            "ball_recoveries": 7.2,
+            "top_speed": 30.5,
+            "high_regains": 1.8
         }
     },
     {
         "name": "Martinez",
-        "position": "CB",
-        "club": "IK Start",
+        "position": "LW",
+        "club": "Rosenborg",
         "in_possession": {
-            "progressive_passes": 7.3,
-            "pass_accuracy": 72.2,
-            "key_passes": 3.1,
-            "expected_assists": 0.29
+            "progressive_passes": 7.1,
+            "pass_accuracy": 89.2,
+            "key_passes": 0.8,
+            "expected_assists": 0.17
         },
         "out_of_possession": {
-            "tackles_won": 1.6,
+            "tackles_won": 4.0,
             "interceptions": 0.5,
-            "defensive_duels_win_pct": 65.1,
-            "aerial_duels_win_pct": 47.3
+            "defensive_duels_win_pct": 67.4,
+            "aerial_duels_win_pct": 40.6
         },
-        "in-transition": {
-            "ball_recoveries": 7.4,
-            "top_speed": 31.1,
-            "high_regains": 1.3
+        "in_transition": {
+            "ball_recoveries": 8.6,
+            "top_speed": 31.3,
+            "high_regains": 0.5
         }
     },
     {
         "name": "Perez",
-        "position": "RBCM",
-        "club": "Hamkam",
+        "position": "LW",
+        "club": "Rosenborg",
         "in_possession": {
-            "progressive_passes": 3.5,
-            "pass_accuracy": 86.9,
-            "key_passes": 2.4,
-            "expected_assists": 0.28
+            "progressive_passes": 3.7,
+            "pass_accuracy": 88.1,
+            "key_passes": 0.5,
+            "expected_assists": 0.33
         },
         "out_of_possession": {
-            "tackles_won": 3.7,
-            "interceptions": 1.5,
-            "defensive_duels_win_pct": 56.3,
-            "aerial_duels_win_pct": 55.0
+            "tackles_won": 3.6,
+            "interceptions": 2.0,
+            "defensive_duels_win_pct": 66.7,
+            "aerial_duels_win_pct": 63.7
         },
-        "in-transition": {
-            "ball_recoveries": 8.3,
-            "top_speed": 30.6,
-            "high_regains": 2.0
+        "in_transition": {
+            "ball_recoveries": 4.1,
+            "top_speed": 30.2,
+            "high_regains": 0.4
         }
     },
     {
         "name": "Sanchez",
         "position": "LW",
-        "club": "Aalesund",
+        "club": "Hamkam",
         "in_possession": {
-            "progressive_passes": 1.7,
-            "pass_accuracy": 81.8,
-            "key_passes": 1.2,
-            "expected_assists": 0.08
+            "progressive_passes": 2.2,
+            "pass_accuracy": 81.0,
+            "key_passes": 1.4,
+            "expected_assists": 0.11
         },
         "out_of_possession": {
-            "tackles_won": 1.2,
-            "interceptions": 2.7,
-            "defensive_duels_win_pct": 71.6,
-            "aerial_duels_win_pct": 58.0
+            "tackles_won": 3.0,
+            "interceptions": 1.9,
+            "defensive_duels_win_pct": 50.6,
+            "aerial_duels_win_pct": 72.0
         },
-        "in-transition": {
-            "ball_recoveries": 8.8,
-            "top_speed": 28.9,
-            "high_regains": 1.3
+        "in_transition": {
+            "ball_recoveries": 3.0,
+            "top_speed": 32.2,
+            "high_regains": 1.9
         }
     },
     {
         "name": "Muller",
-        "position": "LB",
-        "club": "Vålerenga",
+        "position": "ST",
+        "club": "IK Start",
         "in_possession": {
-            "progressive_passes": 4.9,
-            "pass_accuracy": 77.7,
-            "key_passes": 0.4,
-            "expected_assists": 0.11
+            "progressive_passes": 7.0,
+            "pass_accuracy": 89.1,
+            "key_passes": 2.9,
+            "expected_assists": 0.34
         },
         "out_of_possession": {
-            "tackles_won": 3.9,
-            "interceptions": 2.2,
-            "defensive_duels_win_pct": 53.9,
-            "aerial_duels_win_pct": 47.3
+            "tackles_won": 3.1,
+            "interceptions": 1.5,
+            "defensive_duels_win_pct": 73.4,
+            "aerial_duels_win_pct": 66.9
         },
-        "in-transition": {
-            "ball_recoveries": 8.9,
-            "top_speed": 33.5,
-            "high_regains": 1.5
+        "in_transition": {
+            "ball_recoveries": 3.9,
+            "top_speed": 32.1,
+            "high_regains": 0.4
         }
     },
     {
         "name": "Fernandez",
-        "position": "RBCM",
-        "club": "Viking",
+        "position": "ST",
+        "club": "KFUM",
         "in_possession": {
-            "progressive_passes": 2.3,
+            "progressive_passes": 3.4,
             "pass_accuracy": 77.0,
-            "key_passes": 3.1,
-            "expected_assists": 0.37
+            "key_passes": 1.9,
+            "expected_assists": 0.2
         },
         "out_of_possession": {
-            "tackles_won": 1.7,
-            "interceptions": 2.2,
-            "defensive_duels_win_pct": 49.8,
-            "aerial_duels_win_pct": 37.4
+            "tackles_won": 2.6,
+            "interceptions": 1.9,
+            "defensive_duels_win_pct": 60.8,
+            "aerial_duels_win_pct": 51.3
         },
-        "in-transition": {
-            "ball_recoveries": 6.8,
-            "top_speed": 34.0,
-            "high_regains": 1.5
+        "in_transition": {
+            "ball_recoveries": 9.0,
+            "top_speed": 31.2,
+            "high_regains": 2.1
         }
     },
     {
         "name": "Schneider",
-        "position": "CB",
-        "club": "Hamkam",
+        "position": "RW",
+        "club": "Brann",
         "in_possession": {
-            "progressive_passes": 3.9,
-            "pass_accuracy": 81.4,
-            "key_passes": 1.8,
-            "expected_assists": 0.38
+            "progressive_passes": 6.4,
+            "pass_accuracy": 78.2,
+            "key_passes": 2.2,
+            "expected_assists": 0.15
         },
         "out_of_possession": {
-            "tackles_won": 2.5,
-            "interceptions": 1.5,
-            "defensive_duels_win_pct": 55.9,
-            "aerial_duels_win_pct": 62.9
+            "tackles_won": 3.8,
+            "interceptions": 2.0,
+            "defensive_duels_win_pct": 67.1,
+            "aerial_duels_win_pct": 40.9
         },
-        "in-transition": {
-            "ball_recoveries": 4.9,
-            "top_speed": 33.4,
-            "high_regains": 1.1
+        "in_transition": {
+            "ball_recoveries": 4.5,
+            "top_speed": 33.5,
+            "high_regains": 2.4
         }
     },
     {
         "name": "Silva",
-        "position": "ST",
-        "club": "Fredrikstad",
+        "position": "LW",
+        "club": "Rosenborg",
         "in_possession": {
-            "progressive_passes": 1.8,
-            "pass_accuracy": 91.0,
-            "key_passes": 0.5,
-            "expected_assists": 0.21
+            "progressive_passes": 1.9,
+            "pass_accuracy": 84.8,
+            "key_passes": 3.1,
+            "expected_assists": 0.33
         },
         "out_of_possession": {
-            "tackles_won": 2.8,
-            "interceptions": 1.5,
-            "defensive_duels_win_pct": 49.1,
-            "aerial_duels_win_pct": 62.4
+            "tackles_won": 4.0,
+            "interceptions": 1.3,
+            "defensive_duels_win_pct": 49.0,
+            "aerial_duels_win_pct": 42.0
         },
-        "in-transition": {
-            "ball_recoveries": 3.5,
-            "top_speed": 33.7,
-            "high_regains": 2.4
+        "in_transition": {
+            "ball_recoveries": 5.0,
+            "top_speed": 31.2,
+            "high_regains": 0.8
         }
     },
     {
         "name": "Jones",
         "position": "RW",
-        "club": "Bodø/Glimt",
+        "club": "Lillestrøm",
         "in_possession": {
-            "progressive_passes": 2.9,
-            "pass_accuracy": 85.4,
-            "key_passes": 2.6,
-            "expected_assists": 0.09
+            "progressive_passes": 5.4,
+            "pass_accuracy": 82.5,
+            "key_passes": 2.7,
+            "expected_assists": 0.14
         },
         "out_of_possession": {
-            "tackles_won": 4.2,
-            "interceptions": 1.9,
-            "defensive_duels_win_pct": 76.5,
-            "aerial_duels_win_pct": 57.9
+            "tackles_won": 4.0,
+            "interceptions": 2.5,
+            "defensive_duels_win_pct": 58.8,
+            "aerial_duels_win_pct": 68.7
         },
-        "in-transition": {
-            "ball_recoveries": 5.6,
-            "top_speed": 34.0,
-            "high_regains": 0.7
+        "in_transition": {
+            "ball_recoveries": 3.3,
+            "top_speed": 31.3,
+            "high_regains": 2.4
         }
     },
     {
         "name": "Yilmaz",
-        "position": "CB",
-        "club": "Vålerenga",
+        "position": "LW",
+        "club": "Rosenborg",
         "in_possession": {
-            "progressive_passes": 4.1,
-            "pass_accuracy": 84.2,
-            "key_passes": 2.6,
-            "expected_assists": 0.19
+            "progressive_passes": 7.1,
+            "pass_accuracy": 79.7,
+            "key_passes": 0.9,
+            "expected_assists": 0.4
         },
         "out_of_possession": {
-            "tackles_won": 2.2,
-            "interceptions": 2.2,
-            "defensive_duels_win_pct": 57.3,
-            "aerial_duels_win_pct": 56.3
+            "tackles_won": 4.0,
+            "interceptions": 2.4,
+            "defensive_duels_win_pct": 68.3,
+            "aerial_duels_win_pct": 37.5
         },
-        "in-transition": {
-            "ball_recoveries": 5.2,
-            "top_speed": 29.4,
-            "high_regains": 0.4
+        "in_transition": {
+            "ball_recoveries": 7.0,
+            "top_speed": 33.7,
+            "high_regains": 1.6
         }
     },
     {
         "name": "Hernandez",
-        "position": "RBCM",
-        "club": "Vålerenga",
+        "position": "LB",
+        "club": "Lillestrøm",
         "in_possession": {
-            "progressive_passes": 3.2,
-            "pass_accuracy": 87.0,
-            "key_passes": 2.6,
-            "expected_assists": 0.18
+            "progressive_passes": 5.4,
+            "pass_accuracy": 80.6,
+            "key_passes": 2.8,
+            "expected_assists": 0.34
         },
         "out_of_possession": {
-            "tackles_won": 2.5,
-            "interceptions": 2.7,
-            "defensive_duels_win_pct": 63.1,
-            "aerial_duels_win_pct": 64.4
+            "tackles_won": 1.1,
+            "interceptions": 1.0,
+            "defensive_duels_win_pct": 59.2,
+            "aerial_duels_win_pct": 51.5
         },
-        "in-transition": {
-            "ball_recoveries": 4.5,
-            "top_speed": 34.1,
-            "high_regains": 1.0
+        "in_transition": {
+            "ball_recoveries": 6.6,
+            "top_speed": 29.5,
+            "high_regains": 1.2
         }
     },
     {
         "name": "Diaz",
         "position": "ST",
-        "club": "Brann",
+        "club": "Hamkam",
         "in_possession": {
-            "progressive_passes": 7.1,
-            "pass_accuracy": 85.0,
-            "key_passes": 3.1,
-            "expected_assists": 0.34
+            "progressive_passes": 2.1,
+            "pass_accuracy": 81.5,
+            "key_passes": 0.6,
+            "expected_assists": 0.2
         },
         "out_of_possession": {
-            "tackles_won": 3.9,
-            "interceptions": 1.0,
-            "defensive_duels_win_pct": 66.1,
-            "aerial_duels_win_pct": 57.9
+            "tackles_won": 2.0,
+            "interceptions": 2.5,
+            "defensive_duels_win_pct": 63.2,
+            "aerial_duels_win_pct": 71.8
         },
-        "in-transition": {
-            "ball_recoveries": 6.8,
-            "top_speed": 32.6,
-            "high_regains": 0.9
+        "in_transition": {
+            "ball_recoveries": 8.7,
+            "top_speed": 34.5,
+            "high_regains": 0.8
         }
     },
     {
         "name": "Smith",
-        "position": "LB",
-        "club": "Bodø/Glimt",
+        "position": "CB",
+        "club": "Vålerenga",
         "in_possession": {
-            "progressive_passes": 6.6,
-            "pass_accuracy": 80.3,
-            "key_passes": 2.5,
-            "expected_assists": 0.35
+            "progressive_passes": 7.2,
+            "pass_accuracy": 83.0,
+            "key_passes": 0.6,
+            "expected_assists": 0.07
         },
         "out_of_possession": {
-            "tackles_won": 4.0,
-            "interceptions": 2.5,
-            "defensive_duels_win_pct": 57.9,
-            "aerial_duels_win_pct": 70.7
+            "tackles_won": 3.6,
+            "interceptions": 1.8,
+            "defensive_duels_win_pct": 58.8,
+            "aerial_duels_win_pct": 60.0
         },
-        "in-transition": {
-            "ball_recoveries": 3.2,
-            "top_speed": 29.4,
-            "high_regains": 0.5
+        "in_transition": {
+            "ball_recoveries": 9.0,
+            "top_speed": 28.5,
+            "high_regains": 1.4
         }
     },
     {
         "name": "Williams",
-        "position": "CB",
-        "club": "Rosenborg",
+        "position": "RW",
+        "club": "KFUM",
         "in_possession": {
-            "progressive_passes": 2.1,
-            "pass_accuracy": 72.8,
-            "key_passes": 2.8,
-            "expected_assists": 0.12
+            "progressive_passes": 4.5,
+            "pass_accuracy": 79.5,
+            "key_passes": 1.7,
+            "expected_assists": 0.16
         },
         "out_of_possession": {
-            "tackles_won": 1.3,
-            "interceptions": 1.3,
-            "defensive_duels_win_pct": 73.9,
-            "aerial_duels_win_pct": 58.8
+            "tackles_won": 3.2,
+            "interceptions": 1.6,
+            "defensive_duels_win_pct": 65.2,
+            "aerial_duels_win_pct": 70.2
         },
-        "in-transition": {
-            "ball_recoveries": 8.9,
-            "top_speed": 29.3,
-            "high_regains": 1.7
+        "in_transition": {
+            "ball_recoveries": 5.5,
+            "top_speed": 31.8,
+            "high_regains": 2.3
         }
     },
     {
         "name": "Camara",
         "position": "CB",
-        "club": "Viking",
+        "club": "Bodø/Glimt",
         "in_possession": {
-            "progressive_passes": 3.7,
-            "pass_accuracy": 83.1,
-            "key_passes": 0.5,
-            "expected_assists": 0.13
+            "progressive_passes": 7.2,
+            "pass_accuracy": 82.1,
+            "key_passes": 2.7,
+            "expected_assists": 0.37
         },
         "out_of_possession": {
-            "tackles_won": 1.4,
-            "interceptions": 0.6,
-            "defensive_duels_win_pct": 67.1,
-            "aerial_duels_win_pct": 57.2
+            "tackles_won": 1.9,
+            "interceptions": 1.9,
+            "defensive_duels_win_pct": 52.6,
+            "aerial_duels_win_pct": 36.9
         },
-        "in-transition": {
-            "ball_recoveries": 4.6,
-            "top_speed": 31.1,
-            "high_regains": 1.7
+        "in_transition": {
+            "ball_recoveries": 8.1,
+            "top_speed": 33.8,
+            "high_regains": 0.7
         }
     },
     {
         "name": "Hansen",
         "position": "ST",
-        "club": "Aalesund",
+        "club": "Bodø/Glimt",
         "in_possession": {
-            "progressive_passes": 6.5,
-            "pass_accuracy": 76.3,
-            "key_passes": 1.0,
-            "expected_assists": 0.11
+            "progressive_passes": 5.6,
+            "pass_accuracy": 78.1,
+            "key_passes": 1.3,
+            "expected_assists": 0.32
         },
         "out_of_possession": {
-            "tackles_won": 2.5,
-            "interceptions": 0.9,
-            "defensive_duels_win_pct": 66.7,
-            "aerial_duels_win_pct": 59.1
+            "tackles_won": 4.1,
+            "interceptions": 0.6,
+            "defensive_duels_win_pct": 61.3,
+            "aerial_duels_win_pct": 42.8
         },
-        "in-transition": {
-            "ball_recoveries": 3.5,
-            "top_speed": 32.6,
-            "high_regains": 1.0
+        "in_transition": {
+            "ball_recoveries": 7.3,
+            "top_speed": 34.3,
+            "high_regains": 2.1
         }
     },
     {
         "name": "Ramirez",
-        "position": "RBCM",
-        "club": "Tromsø",
+        "position": "ST",
+        "club": "Aalesund",
         "in_possession": {
-            "progressive_passes": 7.2,
-            "pass_accuracy": 84.3,
-            "key_passes": 2.1,
-            "expected_assists": 0.16
+            "progressive_passes": 1.8,
+            "pass_accuracy": 88.9,
+            "key_passes": 2.6,
+            "expected_assists": 0.1
         },
         "out_of_possession": {
-            "tackles_won": 3.0,
-            "interceptions": 2.1,
-            "defensive_duels_win_pct": 56.5,
-            "aerial_duels_win_pct": 61.4
+            "tackles_won": 2.6,
+            "interceptions": 2.0,
+            "defensive_duels_win_pct": 52.5,
+            "aerial_duels_win_pct": 46.0
         },
-        "in-transition": {
-            "ball_recoveries": 3.5,
-            "top_speed": 34.7,
-            "high_regains": 1.9
+        "in_transition": {
+            "ball_recoveries": 9.4,
+            "top_speed": 32.4,
+            "high_regains": 1.4
         }
     },
     {
         "name": "Torres",
-        "position": "RBCM",
-        "club": "Fredrikstad",
+        "position": "CB",
+        "club": "Molde",
         "in_possession": {
-            "progressive_passes": 2.6,
-            "pass_accuracy": 85.8,
-            "key_passes": 2.7,
-            "expected_assists": 0.38
+            "progressive_passes": 3.8,
+            "pass_accuracy": 87.3,
+            "key_passes": 0.9,
+            "expected_assists": 0.05
         },
         "out_of_possession": {
             "tackles_won": 4.1,
-            "interceptions": 1.9,
-            "defensive_duels_win_pct": 50.7,
-            "aerial_duels_win_pct": 43.4
+            "interceptions": 1.0,
+            "defensive_duels_win_pct": 58.3,
+            "aerial_duels_win_pct": 39.4
         },
-        "in-transition": {
-            "ball_recoveries": 8.4,
-            "top_speed": 29.5,
-            "high_regains": 1.3
+        "in_transition": {
+            "ball_recoveries": 6.1,
+            "top_speed": 31.5,
+            "high_regains": 1.4
         }
     },
     {
         "name": "Schmidt",
         "position": "CB",
-        "club": "Molde",
+        "club": "Kristiansund",
         "in_possession": {
-            "progressive_passes": 3.8,
-            "pass_accuracy": 90.6,
-            "key_passes": 0.8,
-            "expected_assists": 0.2
+            "progressive_passes": 6.3,
+            "pass_accuracy": 87.6,
+            "key_passes": 2.5,
+            "expected_assists": 0.13
         },
         "out_of_possession": {
-            "tackles_won": 1.1,
-            "interceptions": 1.0,
-            "defensive_duels_win_pct": 77.6,
-            "aerial_duels_win_pct": 42.5
+            "tackles_won": 3.9,
+            "interceptions": 1.9,
+            "defensive_duels_win_pct": 52.1,
+            "aerial_duels_win_pct": 43.5
         },
-        "in-transition": {
-            "ball_recoveries": 8.5,
-            "top_speed": 32.0,
-            "high_regains": 0.5
+        "in_transition": {
+            "ball_recoveries": 6.8,
+            "top_speed": 29.9,
+            "high_regains": 1.9
         }
     },
     {
         "name": "Pereira",
-        "position": "RW",
-        "club": "IK Start",
+        "position": "RBCM",
+        "club": "Aalesund",
         "in_possession": {
-            "progressive_passes": 5.5,
-            "pass_accuracy": 77.3,
-            "key_passes": 2.2,
-            "expected_assists": 0.09
+            "progressive_passes": 6.7,
+            "pass_accuracy": 81.0,
+            "key_passes": 3.1,
+            "expected_assists": 0.22
         },
         "out_of_possession": {
-            "tackles_won": 3.5,
-            "interceptions": 2.7,
-            "defensive_duels_win_pct": 66.6,
-            "aerial_duels_win_pct": 42.2
+            "tackles_won": 4.1,
+            "interceptions": 0.7,
+            "defensive_duels_win_pct": 61.0,
+            "aerial_duels_win_pct": 43.6
         },
-        "in-transition": {
-            "ball_recoveries": 4.7,
-            "top_speed": 30.1,
+        "in_transition": {
+            "ball_recoveries": 3.0,
+            "top_speed": 29.5,
             "high_regains": 1.0
         }
     },
     {
         "name": "Santos",
-        "position": "LB",
-        "club": "Bodø/Glimt",
+        "position": "LW",
+        "club": "Fredrikstad",
         "in_possession": {
-            "progressive_passes": 5.1,
-            "pass_accuracy": 86.6,
-            "key_passes": 0.9,
-            "expected_assists": 0.13
+            "progressive_passes": 4.5,
+            "pass_accuracy": 87.6,
+            "key_passes": 2.3,
+            "expected_assists": 0.15
         },
         "out_of_possession": {
-            "tackles_won": 1.1,
+            "tackles_won": 2.2,
             "interceptions": 1.5,
-            "defensive_duels_win_pct": 63.4,
-            "aerial_duels_win_pct": 39.1
+            "defensive_duels_win_pct": 67.4,
+            "aerial_duels_win_pct": 55.5
         },
-        "in-transition": {
-            "ball_recoveries": 7.5,
-            "top_speed": 28.9,
-            "high_regains": 2.4
+        "in_transition": {
+            "ball_recoveries": 5.1,
+            "top_speed": 29.3,
+            "high_regains": 1.3
         }
     },
     {
         "name": "Traore",
-        "position": "LW",
-        "club": "Rosenborg",
+        "position": "CB",
+        "club": "Vålerenga",
         "in_possession": {
-            "progressive_passes": 3.0,
-            "pass_accuracy": 87.3,
-            "key_passes": 2.4,
-            "expected_assists": 0.14
+            "progressive_passes": 5.4,
+            "pass_accuracy": 78.6,
+            "key_passes": 1.3,
+            "expected_assists": 0.36
         },
         "out_of_possession": {
-            "tackles_won": 2.1,
-            "interceptions": 2.0,
-            "defensive_duels_win_pct": 60.9,
-            "aerial_duels_win_pct": 49.9
+            "tackles_won": 3.7,
+            "interceptions": 2.3,
+            "defensive_duels_win_pct": 64.1,
+            "aerial_duels_win_pct": 44.0
         },
-        "in-transition": {
-            "ball_recoveries": 9.3,
-            "top_speed": 31.7,
-            "high_regains": 0.4
+        "in_transition": {
+            "ball_recoveries": 4.3,
+            "top_speed": 28.8,
+            "high_regains": 1.3
         }
     },
     {
         "name": "Brown",
-        "position": "ST",
-        "club": "Lillestrøm",
+        "position": "RBCM",
+        "club": "Sarpsborg 08",
         "in_possession": {
-            "progressive_passes": 3.1,
-            "pass_accuracy": 85.2,
-            "key_passes": 2.6,
-            "expected_assists": 0.29
+            "progressive_passes": 2.7,
+            "pass_accuracy": 77.1,
+            "key_passes": 1.7,
+            "expected_assists": 0.25
         },
         "out_of_possession": {
-            "tackles_won": 4.1,
-            "interceptions": 0.9,
-            "defensive_duels_win_pct": 59.7,
-            "aerial_duels_win_pct": 42.3
+            "tackles_won": 1.2,
+            "interceptions": 2.6,
+            "defensive_duels_win_pct": 52.8,
+            "aerial_duels_win_pct": 43.4
         },
-        "in-transition": {
-            "ball_recoveries": 6.3,
-            "top_speed": 33.8,
-            "high_regains": 1.3
+        "in_transition": {
+            "ball_recoveries": 8.6,
+            "top_speed": 30.3,
+            "high_regains": 1.1
         }
     },
     {
         "name": "Diallo",
         "position": "RBCM",
-        "club": "Kristiansund",
+        "club": "Aalesund",
         "in_possession": {
-            "progressive_passes": 4.5,
-            "pass_accuracy": 88.7,
-            "key_passes": 1.6,
-            "expected_assists": 0.18
+            "progressive_passes": 6.5,
+            "pass_accuracy": 86.6,
+            "key_passes": 2.6,
+            "expected_assists": 0.32
         },
         "out_of_possession": {
-            "tackles_won": 1.6,
-            "interceptions": 2.2,
-            "defensive_duels_win_pct": 60.7,
-            "aerial_duels_win_pct": 71.3
+            "tackles_won": 2.1,
+            "interceptions": 1.7,
+            "defensive_duels_win_pct": 61.6,
+            "aerial_duels_win_pct": 51.0
         },
-        "in-transition": {
-            "ball_recoveries": 8.0,
-            "top_speed": 30.5,
-            "high_regains": 0.9
+        "in_transition": {
+            "ball_recoveries": 8.4,
+            "top_speed": 29.3,
+            "high_regains": 2.1
         }
     },
     {
         "name": "Alvarez",
-        "position": "RW",
-        "club": "Rosenborg",
+        "position": "LB",
+        "club": "Viking",
         "in_possession": {
-            "progressive_passes": 5.1,
-            "pass_accuracy": 90.9,
-            "key_passes": 1.4,
-            "expected_assists": 0.3
+            "progressive_passes": 6.4,
+            "pass_accuracy": 83.4,
+            "key_passes": 1.7,
+            "expected_assists": 0.38
         },
         "out_of_possession": {
-            "tackles_won": 1.4,
-            "interceptions": 2.5,
-            "defensive_duels_win_pct": 68.6,
-            "aerial_duels_win_pct": 39.7
+            "tackles_won": 3.0,
+            "interceptions": 1.7,
+            "defensive_duels_win_pct": 67.0,
+            "aerial_duels_win_pct": 69.6
         },
-        "in-transition": {
-            "ball_recoveries": 6.6,
-            "top_speed": 28.7,
-            "high_regains": 2.4
+        "in_transition": {
+            "ball_recoveries": 5.4,
+            "top_speed": 32.8,
+            "high_regains": 1.5
         }
     },
     {
         "name": "Romero",
-        "position": "RW",
-        "club": "Hamkam",
+        "position": "ST",
+        "club": "Kristiansund",
         "in_possession": {
-            "progressive_passes": 2.7,
-            "pass_accuracy": 80.1,
-            "key_passes": 1.6,
-            "expected_assists": 0.32
+            "progressive_passes": 7.3,
+            "pass_accuracy": 78.8,
+            "key_passes": 0.4,
+            "expected_assists": 0.4
         },
         "out_of_possession": {
             "tackles_won": 3.7,
-            "interceptions": 2.4,
-            "defensive_duels_win_pct": 53.7,
-            "aerial_duels_win_pct": 40.3
+            "interceptions": 1.5,
+            "defensive_duels_win_pct": 59.6,
+            "aerial_duels_win_pct": 37.9
         },
-        "in-transition": {
-            "ball_recoveries": 8.8,
-            "top_speed": 29.5,
-            "high_regains": 2.0
+        "in_transition": {
+            "ball_recoveries": 4.6,
+            "top_speed": 30.2,
+            "high_regains": 1.2
         }
     }
 ]

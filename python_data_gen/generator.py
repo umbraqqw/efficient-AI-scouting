@@ -44,7 +44,7 @@ for name in name_list:
       "aerial_duels_win_pct": round(random.uniform(35.0, 72.0), 1)
     },
 
-    "in-transition": {
+    "in_transition": {
       "ball_recoveries": round(random.uniform(3.0, 9.5), 1),
       "top_speed": round(random.uniform(28.5, 35.2), 1),
       "high_regains": round(random.uniform(0.4, 2.5), 1)
